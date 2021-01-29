@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title":"My First Blog",
+            "body": "Why do we use Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's it It is long",
+            "author":"Bukenya",
+            "id":1
+        },
+        {
+            "title":"Opening Party",
+            "body":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
+            "author":"Lukman",
+            "id":2
+        }
+    ]
+}
