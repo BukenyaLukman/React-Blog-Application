@@ -1,16 +1,34 @@
 {
-    "blogs":[
-        {
-            "title":"My First Blog",
-            "body": "Why do we use Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's it It is long",
-            "author":"Bukenya",
-            "id":1
-        },
-        {
-            "title":"Opening Party",
-            "body":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
-            "author":"Lukman",
-            "id":2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's it It is long",
+      "author": "Bukenya",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
+      "author": "Lukman",
+      "id": 2
+    },
+    {
+      "title": "The New Cryptocurrency",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+      "author": "bukenya",
+      "id": 3
+    },
+    {
+      "title": "The Girl next door with A Gifted mind",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution",
+      "author": "bukenya",
+      "id": 4
+    },
+    {
+      "title": "Hello Ninjas",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of",
+      "author": "lukman",
+      "id": 7
+    }
+  ]
 }
